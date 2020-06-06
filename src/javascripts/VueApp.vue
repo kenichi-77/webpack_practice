@@ -7,9 +7,9 @@ export default {
   data: () => {
     console.log("Vuejs is installed!");
     return {
-      message: "Hey this is Vue!"
+      message: "Hey this is Vue!",
     };
-  }
+  },
 };
 </script>
 
